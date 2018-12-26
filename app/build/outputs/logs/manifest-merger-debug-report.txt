@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9c7be83ddfb7e072deeaf8faee2f992/AndroidManifest.xml:17:1-24:12
+MERGED from [com.stephentuso:welcome:1.4.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/welcome-1.4.1.aar/8816cd2a6b47cc9c8d9a27605fe5d72f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c7d78543c2d823d820779184ad649001/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/538b56a13e4024de6642a4e6fc37f4b1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.GrenderG:Toasty:1.3.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/Toasty-1.3.0.aar/e3d246777ece42548b8c9e30f070b0fa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/flowingdrawer-core-2.0.0.aar/e1cc1b3687c52c28a29074fe22a7d838/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.volley:volley:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/80d62a5920a5f8543b564075b4848fdd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3748795b7b550131bfb0aa42353cb940/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e4282759c761949b91ceabe907b3830/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08df53ca4b110cc7377958e1868f302c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8fd8bd57d32498a6d99641ee28ad646a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/79605c9c43cfb93611dfe5ef1c2cd6af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8d4bee60acfb0fecacb7bc611fdc1c81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a804619f8af91056a5b14583147586/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3917250bb7b5b9033abb9ea8fb0bfffb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6be15fe9d5949dd6a675197e75ea32a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/504355f4f74c09dbdcea94df93441ac8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e6d60124098bc736ea9ad96a79c8c645/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/35ba83d1ab20e9b54c5e494653b0ccf9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/172dd3d6866fca05f1a4bfb6b8c93890/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c4ea6f0055f851d2eca5cb54febcc239/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45a889c04886803e26f7b413c1f67b18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0369e0a1a2c3e6463609ebc476ac2b48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43187e2adb823ea584ca1680aeb487de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d512bebd702e78fa835b542dde7382b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2002a091b729962e1f37e25af755e06b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b539d5d52096a81f25f36e866d8f122c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9f6db6bd7c29a1498d122cc548e7deb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5ec61485e75eaf37cc99810975f01423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8d1d16ae251fc4b5ff1c77d6ad29d0a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b57657b172fcf406b6417b4847e2643d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/328861245535d39711ee497356c6b9c9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/243a24cffc12a8cfb5a7ffe6c1685268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8c59d30aa18ea82e1aa64ad90ca16df8/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:11:5-41:19
+MERGED from [com.android.support:design:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9c7be83ddfb7e072deeaf8faee2f992/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9c7be83ddfb7e072deeaf8faee2f992/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/538b56a13e4024de6642a4e6fc37f4b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/538b56a13e4024de6642a4e6fc37f4b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/80d62a5920a5f8543b564075b4848fdd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/80d62a5920a5f8543b564075b4848fdd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/328861245535d39711ee497356c6b9c9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/328861245535d39711ee497356c6b9c9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.ahk.studenthouse.MainActivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.ahk.studenthouse.welcomeActivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:25:9-27:57
+	android:theme
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.ahk.studenthouse.LoginActivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:28:9-32:55
+	android:label
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:30:13-57
+	android:windowSoftInputMode
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:32:13-52
+	android:theme
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:29:13-42
+activity#com.ahk.studenthouse.RegisterActivity
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:33:9-37:55
+	android:label
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:35:13-60
+	android:windowSoftInputMode
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:37:13-52
+	android:theme
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:34:13-45
+activity#com.ahk.studenthouse.register2Activity
+ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:38:9-40:55
+	android:windowSoftInputMode
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:40:13-52
+	android:name
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml:39:13-46
+uses-sdk
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9c7be83ddfb7e072deeaf8faee2f992/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/b9c7be83ddfb7e072deeaf8faee2f992/AndroidManifest.xml:20:5-44
+MERGED from [com.stephentuso:welcome:1.4.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/welcome-1.4.1.aar/8816cd2a6b47cc9c8d9a27605fe5d72f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.stephentuso:welcome:1.4.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/welcome-1.4.1.aar/8816cd2a6b47cc9c8d9a27605fe5d72f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c7d78543c2d823d820779184ad649001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c7d78543c2d823d820779184ad649001/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/538b56a13e4024de6642a4e6fc37f4b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/538b56a13e4024de6642a4e6fc37f4b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.GrenderG:Toasty:1.3.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/Toasty-1.3.0.aar/e3d246777ece42548b8c9e30f070b0fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.GrenderG:Toasty:1.3.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/Toasty-1.3.0.aar/e3d246777ece42548b8c9e30f070b0fa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/flowingdrawer-core-2.0.0.aar/e1cc1b3687c52c28a29074fe22a7d838/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/flowingdrawer-core-2.0.0.aar/e1cc1b3687c52c28a29074fe22a7d838/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.volley:volley:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/80d62a5920a5f8543b564075b4848fdd/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/80d62a5920a5f8543b564075b4848fdd/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:transition:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3748795b7b550131bfb0aa42353cb940/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3748795b7b550131bfb0aa42353cb940/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e4282759c761949b91ceabe907b3830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/9e4282759c761949b91ceabe907b3830/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08df53ca4b110cc7377958e1868f302c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/08df53ca4b110cc7377958e1868f302c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8fd8bd57d32498a6d99641ee28ad646a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8fd8bd57d32498a6d99641ee28ad646a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/79605c9c43cfb93611dfe5ef1c2cd6af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/79605c9c43cfb93611dfe5ef1c2cd6af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8d4bee60acfb0fecacb7bc611fdc1c81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/8d4bee60acfb0fecacb7bc611fdc1c81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a804619f8af91056a5b14583147586/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/93a804619f8af91056a5b14583147586/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3917250bb7b5b9033abb9ea8fb0bfffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3917250bb7b5b9033abb9ea8fb0bfffb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6be15fe9d5949dd6a675197e75ea32a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6be15fe9d5949dd6a675197e75ea32a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/504355f4f74c09dbdcea94df93441ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/504355f4f74c09dbdcea94df93441ac8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e6d60124098bc736ea9ad96a79c8c645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e6d60124098bc736ea9ad96a79c8c645/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/35ba83d1ab20e9b54c5e494653b0ccf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/35ba83d1ab20e9b54c5e494653b0ccf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/172dd3d6866fca05f1a4bfb6b8c93890/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/172dd3d6866fca05f1a4bfb6b8c93890/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c4ea6f0055f851d2eca5cb54febcc239/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c4ea6f0055f851d2eca5cb54febcc239/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45a889c04886803e26f7b413c1f67b18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/45a889c04886803e26f7b413c1f67b18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0369e0a1a2c3e6463609ebc476ac2b48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0369e0a1a2c3e6463609ebc476ac2b48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43187e2adb823ea584ca1680aeb487de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43187e2adb823ea584ca1680aeb487de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d512bebd702e78fa835b542dde7382b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d512bebd702e78fa835b542dde7382b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2002a091b729962e1f37e25af755e06b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2002a091b729962e1f37e25af755e06b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b539d5d52096a81f25f36e866d8f122c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b539d5d52096a81f25f36e866d8f122c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9f6db6bd7c29a1498d122cc548e7deb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c9f6db6bd7c29a1498d122cc548e7deb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5ec61485e75eaf37cc99810975f01423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/5ec61485e75eaf37cc99810975f01423/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8d1d16ae251fc4b5ff1c77d6ad29d0a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8d1d16ae251fc4b5ff1c77d6ad29d0a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59e2701d19f46f4169ab7d650b6b8a17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b57657b172fcf406b6417b4847e2643d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b57657b172fcf406b6417b4847e2643d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/328861245535d39711ee497356c6b9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/328861245535d39711ee497356c6b9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/243a24cffc12a8cfb5a7ffe6c1685268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/243a24cffc12a8cfb5a7ffe6c1685268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8c59d30aa18ea82e1aa64ad90ca16df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8c59d30aa18ea82e1aa64ad90ca16df8/AndroidManifest.xml:20:5-44
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		ADDED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abdelazeem/AndroidStudioProjects/StudentHouse/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/496fa637e68c8f8b1510d665f83b7c4a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/6dd3f4f77d8a2ad3b859e4154af1cd78/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:preference-v7:25.3.1] /home/abdelazeem/.gradle/caches/transforms-1/files-1.1/preference-v7-25.3.1.aar/7df8c64cae4e2898326e464f00cb102d/AndroidManifest.xml:23:9-47
